@@ -1,0 +1,212 @@
+.small-image {
+  margin-left: 150px;
+  width: 100px;
+  height: auto;
+}
+.small-images {
+  margin-top: 40px;
+  margin-left: 80px;
+  width: 100px;
+  height: auto;
+  margin-bottom: 20px;
+}
+.big-image {
+  margin-left: 50px;
+  width: 600px;
+  height: auto;
+  margin-right: 60px;
+  margin-top: 80px;
+}
+.image {
+  margin-left: 50px;
+  width: 500px;
+  height: auto;
+  margin-right: 60px;
+  margin-top: 80px;
+}
+.images {
+  width: 300px;
+  margin-left: 30px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+.image1 {
+  margin-left: 150px;
+  width: 500px;
+  height: auto;
+  margin-right: 60px;
+  margin-top: 80px;
+}
+.div3 {
+  margin-left: 60px;
+}
+.d1 {
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 60px;
+  margin-top: 120px;
+}
+.div1 {
+  margin-top: 30px;
+}
+.span {
+  margin-left: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.spa {
+  margin-left: 80px;
+  margin-bottom: 60px;
+}
+.d8 {
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-bottom: 60px;
+}
+.button1 {
+  background-color: orangered;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 15px;
+  border: none;
+}
+.button2 {
+  background-color: white;
+  color: orangered;
+  padding: 8px 15px;
+  border-color: orangered;
+  border-radius: 5px;
+}
+.button3 {
+  background-color: antiquewhite;
+  margin-top: 30px;
+  border: none;
+  margin-bottom: 50px;
+}
+.button4 {
+  background-color: darkgray;
+  margin-top: 30px;
+  border: none;
+  margin-bottom: 70px;
+  padding-bottom: 40px;
+}
+.div2 {
+  display: flex;
+  font-family: sans-serif;
+}
+.ul {
+  font-size: 15px;
+  margin-right: 50px;
+  line-height: 28px;
+  margin-top: 30px;
+}
+.d3 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 120px;
+  margin-right: 80px;
+  margin-bottom: 40px;
+}
+.d4 {
+  margin-right: 70px;
+  line-height: 30px;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+.d6 {
+  margin-left: 40px;
+}
+.d2 {
+  margin-right: 50px;
+  line-height: 30px;
+  font-size: 15px;
+}
+.span {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.img {
+  width: 100px;
+  margin-top: 20px;
+  margin-right: 70px;
+}
+.span1 {
+  margin-left: 280px;
+}
+.card3 {
+  text-align: center;
+}
+.d7 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.sp {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+.d9 {
+  font-weight: bolder;
+  margin-left: 80px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.d10 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.o {
+  margin-left: 400px;
+  background-color: white;
+  padding: 20px;
+}
+.di {
+  display: flex;
+  margin-top: 40px;
+  margin-right: 40px;
+}
+.di2 {
+  margin-right: 80px;
+  list-style-type: none;
+  margin-left: 80px;
+  line-height: 28px;
+}
+.di1 {
+  margin-left: 80px;
+  line-height: 28px;
+  list-style-type: none;
+}
+.butt {
+  background-color: rgb(6, 4, 35);
+  color: white;
+}
+.oo {
+  background-color: white;
+  padding: 20px;
+  margin-left: 40px;
+}
+.d11 {
+  text-align: center;
+  margin-top: 50px;
+  list-style-type: circle;
+  font-size: 15px;
+  font-weight: bolder;
+}
+.class {
+  text-align: center;
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+.but {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+}
+.p {
+  margin-left: 120px;
+  margin-right: 380px;
+  font-size: 17px;
+  line-height: 25px;
+}
